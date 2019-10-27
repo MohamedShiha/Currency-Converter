@@ -1,6 +1,6 @@
 # Currency Converter
 
-An app that exchange currency rates and save them for thee users so the can check them anytime, It also can exchange multiple rates at the same time so that is is easier to compare many rates at the same time. 
+An app that exchange currency rates and save them for the users so they can check them anytime, It also can exchange multiple rates at the same time so that is is easier to compare many rates at the same time. 
 
 ## Requirements
 
